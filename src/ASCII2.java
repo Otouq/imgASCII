@@ -97,8 +97,7 @@ public class ASCII2 {
 
     }
 
-    private static void convertToAsciiAndWrite(BufferedImage image, char[] asciiChars, Writer writer)
-            throws IOException {
+    private static void convertToAsciiAndWrite(BufferedImage image, char[] asciiChars, Writer writer) {
         try {
             for (int y = 0; y < image.getHeight(); y++) {
                 for (int x = 0; x < image.getWidth(); x++) {
