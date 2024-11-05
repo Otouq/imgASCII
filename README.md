@@ -1,4 +1,4 @@
-(Be aware, this repository was created time ago as a way to learn how github works and some java coding. I know might not be the best, but it was just a silly test from time ago. )
+(Be aware, this repository was created time ago as a way to learn how github works and some java coding. it was just a silly test from time ago. )
 
 You can generate cool stuff, cool.
 With a super-edgy built in interface and resizable img ascii creator!
